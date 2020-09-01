@@ -1,0 +1,46 @@
+.logo-marca{
+  
+  border-radius: 4px;
+  padding: 5px;
+  width: 75px;
+}
+
+.nombre{
+    font-size: 7;
+}
+
+.titulos-1
+{
+	font-size: 22px;
+	font-weight: 500;
+	color: #1a1a1a;
+	line-height: 1.2;
+}
+
+
+.fotos{
+  
+  border-radius: 4px;
+  padding: 5px;
+  width: 350px;
+}
+
+
+.tarjeta-texto
+{
+	 text-align: justify;
+    font-size: 14px;
+	font-weight: 500;
+	color: #a5a5a5;
+	margin-top: -12px;
+}
+.proyectos{
+    font-size: 20px;
+}
+
+.titulo-proyecto{
+    font-size: 50px;
+}
+.parrafo-proyecto{
+    text-align: justify;
+}
