@@ -39,8 +39,44 @@
 }
 
 .titulo-proyecto{
-    font-size: 50px;
+    font-size: 25px;
 }
 .parrafo-proyecto{
     text-align: justify;
+}
+
+.elements_loaders_container
+{
+	margin-top: 60px;
+}
+.loader
+{
+	width: 195px;
+	height: 195px;
+	margin: 0 auto;
+}
+.loader_text
+{
+	font-size: 16px;
+	font-weight: 500;
+	color: #1a1a1a;
+	margin-top: 26px;
+}
+.loader_sub
+{
+	font-size: 15px;
+	font-weight: 400;
+	color: #a5a5a5;
+	margin-top: 5px;
+}
+	.loader_col
+	{
+		margin-bottom: 60px;
+	}
+.loader_cont{
+    	font-size: 16px;
+	font-weight: 500;
+	color: #1a1a1a;
+	margin-top: 26px;
+    
 }
